@@ -1,9 +1,14 @@
-App: abuela
-ComponenteMadre: Madre
-ComponenteHija: Hija
+# proyecto base con tres componentes:
 
-//////
+App.js (abuela)
+ComponenteMadre.js (madre)
+ComponenteHija.js (hija)
 
-npm install
-npm install node-sass
-npm start
+# para empezar a trabajar con ello hay que ejecutar
+
+/npm install
+/npm install node-sass
+
+# para lanzar el Live Server hay que ejecutar
+
+/npm start
