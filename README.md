@@ -12,3 +12,7 @@
 ## para lanzar el Live Server hay que ejecutar
 
 npm start
+
+## para crear carpeta build y renombrarla a docs
+
+npm run docs
